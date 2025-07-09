@@ -1,0 +1,1 @@
+Josiah received his BS in Biochemistry and Philosophy from St. John Fisher University. He is our lab fly wrangler and also contributes to our study of the mechanisms of Segregation Distorter in Drosophila melanogaster.
