@@ -51,8 +51,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-larracuente-lab-people",
-          title: "Larracuente lab people",
+        },{id: "nav-people",
+          title: "people",
           description: "members of the lab",
           section: "Navigation",
           handler: () => {
@@ -440,16 +440,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-amanda-larracuente-and-john-sproul-published-a-short-perspectives-piece-on-a-new-tool-for-visualizing-repeats-in-genome-assemblies-called-repeatobserver-check-out-the-publication-in-molecular-ecology-resources",
+          title: 'Amanda Larracuente and John Sproul published a short perspectives piece on a new...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-jabale-rahmat-and-leila-lin-join-the-lab",
+          title: 'Jabale Rahmat and Leila Lin join the lab',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-emiliano-martí-was-awarded-the-delill-nasser-award-for-professional-development-in-genetics-from-the-genetics-society-of-america-sparkles-smile",
+          title: 'Emiliano Martí was awarded the DeLill Nasser Award for Professional Development in Genetics...',
+          description: "",
+          section: "News",},{id: "news-tyler-handler-was-awarded-a-dekiewiet-summer-research-fellowship-to-map-suppressors-of-segregation-distorter-sparkles",
+          title: 'Tyler Handler was awarded a DeKiewiet summer research fellowship to map suppressors of...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
