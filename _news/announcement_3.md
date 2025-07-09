@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Emiliano Martí was awarded the DeLill Nasser Award for Professional Development in Genetics from the Genetics Society of America! :sparkles: :smile:

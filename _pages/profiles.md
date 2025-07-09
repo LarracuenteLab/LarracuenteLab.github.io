@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: Larracuente lab people
+title: people
 description: members of the lab
 nav: true
 nav_order: 7
