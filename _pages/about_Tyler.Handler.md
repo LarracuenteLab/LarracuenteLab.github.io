@@ -1,0 +1,1 @@
+Tyler is an undergraduate majoring in molecular genetics with a minor in computational biology.  He is mapping a suppressor of Segregation Distorter in Drosophila melanogaster.
