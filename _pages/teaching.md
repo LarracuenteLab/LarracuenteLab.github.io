@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 <div style="text-align:center; margin:2em 0;">
-  <span style="background:#fff; padding:0 1em; color:#888;">**UR Courses**</span>
+  <span style="background:#fff; padding:0 1em; color:#888; font-size:2em; font-weight:bold;">UR COURSES</span>
   <hr style="margin-top:-1em;">
 </div>
 
@@ -36,7 +36,7 @@ Offered every semester, rotating faculty
 
 
 <div style="text-align:center; margin:2em 0;">
-  <span style="background:#fff; padding:0 1em; color:#888;">**UR PROGRAMS**</span>
+  <span style="background:#fff; padding:0 1em; color:#888; font-size:2em; font-weight:bold;">UR PROGRAMS</span>
   <hr style="margin-top:-1em;">
 </div>
 
@@ -50,7 +50,7 @@ The Genomic Intensive Data Science Research, Education and Mentorship (GIDS-REM)
 
 
 <div style="text-align:center; margin:2em 0;">
-  <span style="background:#fff; padding:0 1em; color:#888;">**OUTREACH**</span>
+  <span style="background:#fff; padding:0 1em; color:#888; font-size:2em; font-weight:bold;">OUTREACH</span>
   <hr style="margin-top:-1em;">
 </div>
 
@@ -70,7 +70,7 @@ Amanda’s café was a presentation on the “Mysteries of the Genome” (11/24/
 
 
 <div style="text-align:center; margin:2em 0;">
-  <span style="background:#fff; padding:0 1em; color:#888;">**OTHER**</span>
+  <span style="background:#fff; padding:0 1em; color:#888;font-size:2em; font-weight:bold;">OTHER</span>
   <hr style="margin-top:-1em;">
 </div>
 
