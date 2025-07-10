@@ -3,18 +3,18 @@
 # -----------------------------------------------------------------------------
 
 title: The Larracuente Lab # the website title (if blank, full name will be used instead)
-#first_name: You
-#middle_name: R.
-#last_name: Name
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+#first_name: Amanda
+#middle_name: M.
+#last_name: Larracuente
+#contact_note: >
+#  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Studying how selfish genetic elements, and the intragenomic conflicts that they create, shape genome evolution, organization, and function.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: selfish genetic elements, genetic conflict, meiotic drive, centromeres, telomeres, sex chromosomes # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 359.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
