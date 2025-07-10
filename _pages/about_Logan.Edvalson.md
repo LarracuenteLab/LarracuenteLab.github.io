@@ -1,4 +1,4 @@
-Logan completed his masters at Brigham Young University developing tools to study the evolutionary developmental genetics of reptiles. He is broadly interested in how genetic conflicts shape the evolution of the genome and how these conflicts influence chromatin architecture. Logan joined the Larracuente lab as a CDM graduate student in Spring 2023.
+Logan completed his masters at Brigham Young University developing tools to study the evolutionary developmental genetics of reptiles. He is broadly interested in how genetic conflicts shape the evolution of the genome and how these conflicts influence chromatin architecture. Logan joined the Larracuente lab as a CDM graduate student in Spring 2023. Check out Logan's personal website [here](https://sites.google.com/view/loganedvalson/about).
 
 Selected publications:
 
