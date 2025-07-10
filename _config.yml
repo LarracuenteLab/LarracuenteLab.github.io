@@ -6,7 +6,7 @@ title: The Larracuente Lab # the website title (if blank, full name will be used
 #first_name: Amanda
 #middle_name: M.
 #last_name: Larracuente
-#contact_note: >
+contact_note: > 
 #  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Studying how selfish genetic elements, and the intragenomic conflicts that they create, shape genome evolution, organization, and function.
