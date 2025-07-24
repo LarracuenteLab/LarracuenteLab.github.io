@@ -24,6 +24,9 @@ announcements:
 
 ---
 
+<img src="{{ '/assets/img/Larracuente.lab.logo.col.o.jpg' | relative_url }}" alt="Banner" style="width: 100%; height: 400px; object-fit: cover; margin-bottom: 2rem;" />
+
+
 Welcome to the Larracuente Lab!
 
 We study the evolution of selfish DNA using genomic, population genetic, molecular and cytological methods. The lab is located at the University of Rochester in Rochester, NY. We are part of the Evolution, Ecology, Genetics, and Genomics group in the [Department of Biology](https://www.sas.rochester.edu/bio/about/index.html) and are affiliated with the [Goergen Institute for Data Science and AI](https://www.hajim.rochester.edu/dsc/index.html) and the [Center for RNA Biology](https://www.urmc.rochester.edu/rna-biology).
