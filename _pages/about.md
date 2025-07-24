@@ -24,7 +24,9 @@ announcements:
 
 ---
 
-<img src="{{ '/assets/img/Larracuente.lab.logo.col.o.jpg' | relative_url }}" alt="Larracuente Lab logo" style="width: 100%; height: 400px; object-fit: cover; margin-bottom: 2rem;" />
+<img src="{{ '/assets/img/Larracuente.lab.logo.col.o.jpg' | relative_url }}" alt="Banner light" class="banner-img light-mode-banner" style="width: 100%; height: 400px; object-fit: cover; margin-bottom: 2rem;" />
+
+<img src="{{ '/assets/img/Larracuente.lab.logo.col.dark.jpg' | relative_url }}" alt="Banner dark" class="banner-img dark-mode-banner" style="width: 100%; height: 400px; object-fit: cover; margin-bottom: 2rem;" />
 
 
 Welcome to the Larracuente Lab!
