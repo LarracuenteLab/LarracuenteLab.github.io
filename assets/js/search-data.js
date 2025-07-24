@@ -419,8 +419,8 @@ ninja.data = [{
           section: "News",},{id: "news-amanda-larracuente-and-john-sproul-published-a-short-perspectives-piece-on-a-new-tool-for-visualizing-repeats-in-genome-assemblies-called-repeatobserver-check-out-the-publication-in-molecular-ecology-resources",
           title: 'Amanda Larracuente and John Sproul published a short perspectives piece on a new...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-centromere-organization-and-evolution",
+          title: 'Centromere organization and evolution',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
