@@ -6,7 +6,6 @@ description: members of the lab
 nav: true
 nav_order: 7
 ---
-<img src="{{ '/assets/img/Larracuente_lab.2025.wTyler.jpeg' | relative_url }}" alt="Larracuente Lab" style="width: 100%; height: 400px; object-fit: cover; margin-bottom: 2rem;" />
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -76,3 +75,4 @@ profiles:
       <p>Josiah Bowers</p>
       <p>Technician</p>
 ---
+<img src="{{ '/assets/img/Larracuente_lab.2025.wTyler.jpeg' | relative_url }}" alt="Larracuente Lab" style="width: 100%; height: 400px; object-fit: cover; margin-bottom: 2rem;" />
