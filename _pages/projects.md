@@ -2,10 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Here are some of the projects we are working on.
+description: Explore some of the research projects in the lab below.
 nav: true
 nav_order: 3
 horizontal: false
+display_categories: [research, outreach]
 ---
 
 <!-- pages/projects.md -->

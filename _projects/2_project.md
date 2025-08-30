@@ -3,6 +3,7 @@ layout: page
 title: Molecular mechanisms of meiotic drive
 img: assets/img/SRsperm.jpg
 importance: 2
+category: research
 ---
 
 Meiotic drivers are selfish genetic elements that gain a transmission advantage through the germline. We use genetic, genomic and cytological approaches to determine the molecular mechanism of different drive systems. Our primary focus is on the selfish Segregation Distorter complex of D. melanogaster.
