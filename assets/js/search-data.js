@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "Here are some of the projects we are working on.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Courses and programs run by Dr. Larracuente at the University of Rochester",
@@ -421,21 +428,21 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-centromere-organization-and-evolution",
           title: 'Centromere organization and evolution',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-molecular-mechanisms-of-meiotic-drive",
+          title: 'Molecular mechanisms of meiotic drive',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-satellite-dna-functional-and-evolutionary-genomics",
+          title: 'Satellite DNA functional and evolutionary genomics',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-y-chromosome-evolution",
+          title: 'Y chromosome evolution',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
