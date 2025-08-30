@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Y chromosome evolution
-description: another without an image
 img: assets/img/GuarDNA.jpg
 importance: 4
 category: fun
