@@ -16,7 +16,7 @@ nav_order: 6
 
 This course is designed to introduce students to applications of genomics to problems in genetics, evolution and human health and demography. Students will receive hands-on training in genomic methods, where they will learn to apply next generation sequencing (NGS) and other high throughput assays to current biological problems. Students will read and discuss primary literature, and come up with a hypothesis about an unanswered question in Biology that they will then test as a group. Applied Genomics is part of the core curriculum for the Computational Biology Major at UR and our new MS in Data Science Applied Genomics Track.
 
-Last offered Fall 2024
+Last offered Fall 2025
 
 <hr>
 
