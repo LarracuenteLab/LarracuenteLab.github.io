@@ -3,7 +3,6 @@ layout: page
 title: Satellite DNA functional and evolutionary genomics
 img: assets/img/m12zoom_AAGAG_Rsp_RGB.jpg
 importance: 3
-category: work
 ---
 
 Satellite DNAs make up a large fraction of eukaryotic genomes and have important functions in chromosome pairing and segregation. The rapid evolution of satellite DNAs is a major force contributing to genome evolution across taxa and is implicated in genetic incompatibilities between species.
