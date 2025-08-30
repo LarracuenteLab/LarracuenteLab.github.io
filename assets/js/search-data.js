@@ -426,6 +426,9 @@ ninja.data = [{
           section: "News",},{id: "news-amanda-larracuente-and-john-sproul-published-a-short-perspectives-piece-on-a-new-tool-for-visualizing-repeats-in-genome-assemblies-called-repeatobserver-check-out-the-publication-in-molecular-ecology-resources",
           title: 'Amanda Larracuente and John Sproul published a short perspectives piece on a new...',
           description: "",
+          section: "News",},{id: "news-amanda-larracuente-was-awarded-the-mid-career-excellence-award-from-the-society-for-molecular-biology-and-evolution",
+          title: 'Amanda Larracuente was awarded the Mid-Career Excellence Award from the Society for Molecular...',
+          description: "",
           section: "News",},{id: "projects-centromere-organization-and-evolution",
           title: 'Centromere organization and evolution',
           description: "",
@@ -443,34 +446,9 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-y-chromosome-evolution",
           title: 'Y chromosome evolution',
-          description: "another without an image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
