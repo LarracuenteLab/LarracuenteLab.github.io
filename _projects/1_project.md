@@ -2,7 +2,7 @@
 layout: page
 title: Centromere organization and evolution
 img: assets/img/Centromeres.jpg
-importance: 1
+importance: 3
 related_publications: true
 category: research
 ---
