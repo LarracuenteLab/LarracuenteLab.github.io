@@ -2,6 +2,8 @@ Danna Eickbush attended the University of Arizona where she was introduced to th
 
 Selected recent publications. Click [here](https://pubmed.ncbi.nlm.nih.gov/?term=Danna+G.+Eickbush) to see Danna’s PubMed list.
 
+Eickbush DG, Rahmat J, Lindsay M, Bowers J, Fuda NJ, Larracuente AM. 2026. Targeted editing of pericentromeric satellite DNA alters sensitivity to meiotic drive. bioRxiv BIORXIV/2026/700156. doi: 10.64898/2026.01.18.700156.
+
 Eickbush, T.H. and Eickbush, D.G. 2015. Integration, regulation, and long-term stability of R2 retrotransposons. In Mobile DNA III. ASMscience. Editor Nancy L. Craig.
 
 Eickbush, D.G., Burke, W.D. and Eickbush, T.H. 2013. Evolution of the R2 retrotransposon ribozyme and its self-cleavage site. PLoS One 8: e66441.
