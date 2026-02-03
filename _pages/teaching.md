@@ -22,7 +22,7 @@ Last offered Fall 2025
 
 **Advanced topics in Ecology and Evolutionary Biology (BIO 474, BIO476)**
 
-Topic: Genetic Conflict and Selfish Genetic elements.  This course is a whirlwind introduction to selfish genetic elements. This course is part of the EEB graduate program but  interested undergraduates are encouraged to e-mail alarracu@bio.rochester.edu to discuss the possibility of enrolling.
+Topic: Genetic Conflict and Selfish Genetic elements. This course is a whirlwind introduction to selfish genetic elements. This course is part of the EEB graduate program but interested undergraduates are encouraged to e-mail alarracu@bio.rochester.edu to discuss the possibility of enrolling.
 
 Last offered Spring 2025
 
@@ -34,7 +34,6 @@ Join us as we discuss interesting papers in evolutionary biology. We meet on Wed
 
 Offered every semester, rotating faculty
 
-
 <div style="text-align:center; margin:2em 0;">
   <span style="background:#fff; padding:0 1em; color:#888; font-size:2em; font-weight:bold;">UR PROGRAMS</span>
   <hr style="margin-top:-1em;">
@@ -45,15 +44,13 @@ Dr. Larracuente is the advisor for the computational biology major – an interd
 
 <hr>
 
-**GIDS-REM:** 
-The Genomic Intensive Data Science Research, Education and Mentorship (GIDS-REM) fellowship program aims to provide hands-on genomics training to data science MS students.  The program provides curricular training covering theoretical and applied aspects of genomics data science, a way to build core competencies in genomics through workshops and research experiences, and mentoring. The overarching goal is to retain data science scholars in the genomics workforce through  mentorship and networking. GIDS-REM fellows are students in the new GIDS-AI Data Science MS program on the track in Applied Genomics. The fellows receive full tuition scholarships and stipends, in part funded by an NIH R25 from NHGRI (to MPIs: Larracuente, Fay, McCall) with support from the University of Rochester. For more information, visit this [link](https://www.hajim.rochester.edu/dsc/graduate/ms-genomics.html) or e-mail gids-rem@rochester.edu.
-
+**GIDS-REM:**
+The Genomic Intensive Data Science Research, Education and Mentorship (GIDS-REM) fellowship program aims to provide hands-on genomics training to data science MS students. The program provides curricular training covering theoretical and applied aspects of genomics data science, a way to build core competencies in genomics through workshops and research experiences, and mentoring. The overarching goal is to retain data science scholars in the genomics workforce through mentorship and networking. GIDS-REM fellows are students in the new GIDS-AI Data Science MS program on the track in Applied Genomics. The fellows receive full tuition scholarships and stipends, in part funded by an NIH R25 from NHGRI (to MPIs: Larracuente, Fay, McCall) with support from the University of Rochester. For more information, visit this [link](https://www.hajim.rochester.edu/dsc/graduate/ms-genomics.html) or e-mail gids-rem@rochester.edu.
 
 <div style="text-align:center; margin:2em 0;">
   <span style="background:#fff; padding:0 1em; color:#888; font-size:2em; font-weight:bold;">OUTREACH</span>
   <hr style="margin-top:-1em;">
 </div>
-
 
 **Upward Bound**
 
@@ -63,17 +60,14 @@ The Larracuente Lab runs a workshop on insect mating for local high school stude
 
 **Rochester Science Café**
 
-The Science Café provides a forum for interactive discussions on current topics with scientists from the University of Rochester and RIT.  The group meets once a month on Tuesdays at 7pm in the Community Room of Barnes and Noble in Pittsford Plaza. Anyone is welcome to attend!
+The Science Café provides a forum for interactive discussions on current topics with scientists from the University of Rochester and RIT. The group meets once a month on Tuesdays at 7pm in the Community Room of Barnes and Noble in Pittsford Plaza. Anyone is welcome to attend!
 
 Amanda’s café was a presentation on the “Mysteries of the Genome” (11/24/15).
-
-
 
 <div style="text-align:center; margin:2em 0;">
   <span style="background:#fff; padding:0 1em; color:#888;font-size:2em; font-weight:bold;">OTHER</span>
   <hr style="margin-top:-1em;">
 </div>
 
-
-**Hackathons!** 
+**Hackathons!**
 The Goergen Institute for Data Science and Artificial Intelligence working group in life and biomedical data science (co-chaired by Drs. Justin Fay, Matthew McCall, and Amanda Larracuente) hosts annual hackathons open to anyone at the University at any experience level. E-mail alarracu@bio.rochester.edu for information about the next event.

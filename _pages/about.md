@@ -8,7 +8,7 @@ subtitle: <a href='#'>Selfish genetic elements and genome evolution</a>
 #  align: right
 #  image: Larracuente_lab.2025.wTyler.jpg
 #  image_circular: false # crops the image to make it circular
-  #image_width: 400px   # add this line to set the width (adjust as needed)
+#image_width: 400px   # add this line to set the width (adjust as needed)
 #  more_info: >
 #    <p>University of Rochester, Department of Biology</#p>
 #    <p>337 Hutchison Hall</p>
@@ -21,13 +21,11 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
 ---
 
 <img src="{{ '/assets/img/Larracuente.lab.logo.col.o.jpg' | relative_url }}" alt="Banner light" class="banner-img light-mode-banner" style="width: 100%; height: 400px; object-fit: cover; margin-bottom: 2rem;" />
 
 <img src="{{ '/assets/img/Larracuente.lab.logo.col.dark.jpg' | relative_url }}" alt="Banner dark" class="banner-img dark-mode-banner" style="width: 100%; height: 400px; object-fit: cover; margin-bottom: 2rem;" />
-
 
 Welcome to the Larracuente Lab!
 

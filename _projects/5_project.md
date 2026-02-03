@@ -6,7 +6,7 @@ importance: 5
 category: research
 ---
 
-We study the population dynamics of meiotic drivers, their targets, and their suppressors in natural populations. Our favorite model system is the Segregation Distorter (SD) system of Drosophila melanogaster--an autosomal sperm killing supergene.  Driving SD chromosomes exist in a dynamic equilibrium in natural populations with SD haplotypes sweeping and replacing each other. We are interested in the dynamics of these systems to understand the influence of meiotic drive on genomes, populations, and species.
+We study the population dynamics of meiotic drivers, their targets, and their suppressors in natural populations. Our favorite model system is the Segregation Distorter (SD) system of Drosophila melanogaster--an autosomal sperm killing supergene. Driving SD chromosomes exist in a dynamic equilibrium in natural populations with SD haplotypes sweeping and replacing each other. We are interested in the dynamics of these systems to understand the influence of meiotic drive on genomes, populations, and species.
 
 </div>
 <div class="row">

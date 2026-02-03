@@ -13,6 +13,7 @@ Segregation Distorter (SD) is a well-studied selfish gene complex in D. melanoga
 We use genomic, genetic, molecular and cytological approaches to study the mechanism behind segregation distortion and the effects of selfish genes on genome evolution and the genetic control of spermatogenesis. One hypothesis that we are testing is the possibility that small Rsp RNAs are affected by SD in the testis.
 
 Modifiers of SD exist across the genome. Three enhancers of segregation distortion located on the 2nd chromosome ( E(SD), M(SD), and St(SD) ) are frequently held in linkage disequilibrium with the driver through inversions. Suppressors of segregation distortion on the 3rd ( Su(SD)3 ) and X ( Su(SD)X ) chromosomes segregate at high frequencies in natural populations. The molecular identities of these modifiers are currently unknown but discovering their identities promises to provide important insight into the mechanism behind segregation distortion. We are using genetic and association mapping methods to map the modifiers of SD.
+
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,5 +23,3 @@ Modifiers of SD exist across the genome. Three enhancers of segregation distorti
 <div class="caption">
     SD targets a large block of tandem satellite DNA repeats called Rsp. In males heterozygous for SD and a wild-type chromosome with the Rsp satellite, sperm carrying the Rsp satellite have a chromatin condensation defect and are eliminated. 
 </div>
-
-

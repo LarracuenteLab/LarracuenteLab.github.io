@@ -6,8 +6,8 @@ importance: 4
 category: research
 ---
 
-Drosophila Y chromosomes are dense in repetitive sequences and carry few protein-coding genes, but in most species are important for male fertility.  We use  Drosophila species as models to study Y chromosome organization, function, and evolution.
-   
+Drosophila Y chromosomes are dense in repetitive sequences and carry few protein-coding genes, but in most species are important for male fertility. We use Drosophila species as models to study Y chromosome organization, function, and evolution.
+
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

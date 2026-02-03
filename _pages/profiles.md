@@ -74,4 +74,5 @@ profiles:
       <p>Josiah Bowers</p>
       <p>Technician</p>
 ---
+
 <img src="{{ '/assets/img/Larracuente_lab.2025.wTyler.jpg' | relative_url }}" alt="Larracuente Lab" style="width: 100%; height: 400px; object-fit: cover; margin-bottom: 2rem;" />

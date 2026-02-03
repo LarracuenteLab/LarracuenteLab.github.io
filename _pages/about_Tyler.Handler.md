@@ -1,1 +1,1 @@
-Tyler is an undergraduate majoring in molecular genetics with a minor in computational biology.  He is mapping a suppressor of Segregation Distorter in Drosophila melanogaster. Tyler received a Victoria Finnerty Award to attend the Drosophila conference in Chicago Spring 2026!
+Tyler is an undergraduate majoring in molecular genetics with a minor in computational biology. He is mapping a suppressor of Segregation Distorter in Drosophila melanogaster. Tyler received a Victoria Finnerty Award to attend the Drosophila conference in Chicago Spring 2026!
