@@ -13,7 +13,7 @@ We use genomic, molecular and cytological techniques to study the forces driving
 
 The misregulation of satellite DNA is linked to genome instability, some cancers, and hybrid dysgenesis. We currently know little about the regulation of satellite DNA and the origin of satellite-derived RNAs. We use molecular, genomic and cytological approaches to study the expression and maintenance of satellite DNA across Drosophila species.
 
-</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/m12zoom_AAGAG_Rsp_RGB.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

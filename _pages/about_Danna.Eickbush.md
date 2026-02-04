@@ -7,4 +7,5 @@ Eickbush DG, Rahmat J, Lindsay M, Bowers J, Fuda NJ, Larracuente AM. 2026. Targe
 Eickbush, T.H. and Eickbush, D.G. 2015. Integration, regulation, and long-term stability of R2 retrotransposons. In Mobile DNA III. ASMscience. Editor Nancy L. Craig.
 
 Eickbush, D.G., Burke, W.D. and Eickbush, T.H. 2013. Evolution of the R2 retrotransposon ribozyme and its self-cleavage site. PLoS One 8: e66441.
+
 Eickbush, D.G. and Eickbush, T.H. 2012. R2 and R2/R1 hybrid non-autonomous retrotransposons derived by internal deletions of full-length elements. Mobile DNA 3: 10.
