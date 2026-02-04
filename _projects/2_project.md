@@ -14,7 +14,6 @@ We use genomic, genetic, molecular and cytological approaches to study the mecha
 
 Modifiers of SD exist across the genome. Three enhancers of segregation distortion located on the 2nd chromosome ( E(SD), M(SD), and St(SD) ) are frequently held in linkage disequilibrium with the driver through inversions. Suppressors of segregation distortion on the 3rd ( Su(SD)3 ) and X ( Su(SD)X ) chromosomes segregate at high frequencies in natural populations. The molecular identities of these modifiers are currently unknown but discovering their identities promises to provide important insight into the mechanism behind segregation distortion. We are using genetic and association mapping methods to map the modifiers of SD.
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/SD-Rsp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

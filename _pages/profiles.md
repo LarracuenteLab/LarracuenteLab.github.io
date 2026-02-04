@@ -73,7 +73,7 @@ profiles:
     more_info: >
       <p>Tyler Handler</p>
       <p>Molecular Genetics Undergraduate</p>
-  - align: right
+  - align: left
     image: Josiah.Bowers.photo.jpeg
     content: about_Josiah.Bowers.md
     image_circular: false # crops the image to make it circular
