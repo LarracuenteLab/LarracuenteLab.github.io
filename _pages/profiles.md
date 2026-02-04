@@ -60,6 +60,13 @@ profiles:
       <p>Jabale Rahmat</p>
       <p>E2G2 graduate student</p>
   - align: left
+    image: Mallory.Orenstein.jpg
+    content: about_Mallory.Orenstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Mallory Orenstein</p>
+      <p>E2G2 MS student</p>
+  - align: right
     image: TylerHandler.photo.jpg
     content: about_Tyler.Handler.md
     image_circular: false # crops the image to make it circular
