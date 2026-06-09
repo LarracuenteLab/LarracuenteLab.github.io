@@ -23,7 +23,6 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
-
 /*
 .banner-img {
   width: 100%;
@@ -31,9 +30,9 @@ $max-content-width: {{ site.max_width }};
   object-fit: cover;
   margin-bottom: 2rem;
   display: block;
+  aspect-ratio: 16/9;
 }
 */
-
 .banner-img {
   width: 100%;
   height: auto;
@@ -43,13 +42,15 @@ $max-content-width: {{ site.max_width }};
   display: block;
   aspect-ratio: 16/9; /* Adjust based on your image dimensions */
 }
-
 /* Mobile optimization */
 @media (max-width: 768px) {
   .banner-img {
-    max-height: 250px; /* Reduce height on mobile */
+    //max-height: 250px; /* Reduce height on mobile */
+    max-height: none; 
+    height: auto;
   }
 }
+
 
 /* Hide dark banner by default */
 .dark-mode-banner {
@@ -66,3 +67,4 @@ $max-content-width: {{ site.max_width }};
     display: block;
   }
 }
+
