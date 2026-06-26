@@ -3,3 +3,5 @@ Jabale completed his BS in Biochemistry from IndependentUniversity, Bangladesh a
 Selected recent publications:
 
 Eickbush DG, Rahmat J, Lindsay M, Bowers J, Fuda NJ, Larracuente AM. 2026. Targeted editing of pericentromeric satellite DNA alters sensitivity to meiotic drive. bioRxiv BIORXIV/2026/700156. doi: 10.64898/2026.01.18.700156.
+
+Rahmat, J, Pham, T., and A.M. Larracuente. 2026. kmerRRR: A k-mer based tool for functional genomics in Repeat Rich Regions. BioRxiv. 
