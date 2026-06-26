@@ -151,7 +151,7 @@
     <!-- Journal/Book title and date with enhanced formatting -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
-    
+
     <!-- Build journal information string -->
     {% capture journal_info %}
       {% if entry.type == 'article' %}
@@ -167,7 +167,7 @@
         <em>{{ entry.school }}</em>
       {% endif %}
     {% endcapture %}
-    
+
     {% if entry.month %}
       {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
     {% endif %}
