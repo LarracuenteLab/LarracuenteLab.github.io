@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Tyler Handler was awarded a Victoria Finnerty Travel Award from the Genetics Society of America to attend the annual Drosophila Conference in Chicago this spring. He will present his work on the suppressor of Segregation Distorter. Congrats Tyler!
+Tyler Handler was awarded a Victoria Finnerty Travel Award from the Genetics Society of America to attend the annual Drosophila Conference in Chicago this spring. He will present his work on the suppressor of Segregation Distorter. Congrats Tyler! :sparkles: :smile:

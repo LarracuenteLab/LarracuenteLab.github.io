@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Logan Edvalson was awarded an NIH F31 fellowship to study the molecular mechanisms of drive. Congratulations Logan!!
+Logan Edvalson was awarded an NIH F31 fellowship to study the molecular mechanisms of drive. Congratulations Logan!! :sparkles: :smile:
