@@ -2,6 +2,6 @@ Logan completed his masters at Brigham Young University developing tools to stud
 
 Selected publications:
 
-Edvalson LT, Wei X, Chang CH, Larracuente AM. 2025. Disruption of small RNAs and mechanistic variation in Segregation Distorter- a sperm-killing drive system in Drosophila melanogaster. bioRxiv. doi: 10.64898/2025.12.01.691737.
+ Edvalson LT, Wei X, Chang C-H, Larracuente AM. 2026. Disruption of small RNAs and mechanistic variation in Segregation Distorter: A sperm-killing drive system in Drosophila melanogaster. PLoS Genet 22(8): e1012235. https://doi.org/10.1371/journal.pgen.1012235
 
 Edvalson, L. T. and A.M. Larracuente. 2025. Consequences of drive on the evolution of genomes and species. G3: Genes/Genomes/Genetics DOI:10.1093/g3journal/jkaf076.
