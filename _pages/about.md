@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit:  # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 ---
 
 <img src="{{ '/assets/img/Larracuente.lab.logo.col.o.jpg' | relative_url }}" alt="Banner light" class="banner-img light-mode-banner" style="width: 100%; height: 400px; object-fit: cover; margin-bottom: 2rem;" />
